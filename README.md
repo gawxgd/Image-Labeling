@@ -1,0 +1,2 @@
+# Image Labeling
+A **C# WPF Image Labeling Application** that enables users to browse their files through an integrated file browser, preview images, and select specific images for editing. The application allows users to add custom, colored, and named labels to images, enhancing organization and classification. Once labeled, images can be saved with their annotations for future reference or export. This intuitive interface streamlines the image labeling process for easier management and retrieval of tagged images.
